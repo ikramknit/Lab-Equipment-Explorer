@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { EQUIPMENT_LIST } from './constants';
 import type { Equipment } from './types';
